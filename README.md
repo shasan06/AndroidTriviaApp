@@ -14,3 +14,4 @@ Create a fragment inside an activity.
 
 Task2
 CHECK THE WORD FILE
+SEE The Week 3 Android Lab word Dox file download it.
